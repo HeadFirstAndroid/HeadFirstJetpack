@@ -1,2 +1,4 @@
+include ':startup'
+include ':lifecycles'
 include ':app'
 rootProject.name='HeadFirstJetpack'
